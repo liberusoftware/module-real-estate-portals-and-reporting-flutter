@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-portals-and-reporting-flutter",
+  "capabilityKey": "planned:real-estate:portals-and-reporting",
+  "presentation": "mobile-flutter",
+  "package": "module_real_estate_portals_and_reporting_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/real-estate/nextjs/portals-and-reporting.md",
+  "presentationPlan": "projects/real-estate/flutter/portals-and-reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
